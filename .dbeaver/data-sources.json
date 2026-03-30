@@ -37,7 +37,7 @@
 		"postgres-jdbc-19d3ddcf96f-22fb3f59fbdbf36e": {
 			"provider": "postgresql",
 			"driver": "postgres-jdbc",
-			"name": "saved_Guzeeva copy",
+			"name": "shaed_Guzeeva",
 			"save-password": true,
 			"configuration": {
 				"host": "localhost",
