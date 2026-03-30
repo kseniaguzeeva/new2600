@@ -37,8 +37,9 @@
 		"postgres-jdbc-19d3ddcf96f-22fb3f59fbdbf36e": {
 			"provider": "postgresql",
 			"driver": "postgres-jdbc",
-			"name": "shaed_Guzeeva",
+			"name": "shared_Guzeeva",
 			"save-password": true,
+			"shared-credentials": true,
 			"configuration": {
 				"host": "localhost",
 				"port": "5432",
