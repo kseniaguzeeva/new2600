@@ -4,7 +4,7 @@
 		"postgres-jdbc-19d3ddcbc8c-45fbfa1e31d2f0fd": {
 			"provider": "postgresql",
 			"driver": "postgres-jdbc",
-			"name": "saved_Guzeeva",
+			"name": "saved_cbadmin",
 			"save-password": true,
 			"configuration": {
 				"host": "localhost",
